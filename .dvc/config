@@ -1,0 +1,4 @@
+[core]
+    remote = untypedai
+['remote "untypedai"']
+    url = webdavs://webdav.metabox.synology.me/dvc/wind
